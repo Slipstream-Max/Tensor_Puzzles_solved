@@ -1,6 +1,3 @@
-
-
-        
 from hypothesis.extra.numpy import arrays
 from hypothesis.strategies import integers, lists, composite, floats
 from hypothesis import given
